@@ -1,3 +1,3 @@
-up= True
+up = True
 while up:
     pass
